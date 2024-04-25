@@ -1,1 +1,1 @@
-This is noval approcahe for horizon line detection using image processing technique edge and line detection to find the aircraft orientation Pitch and Roll infromation and to control the aircarft in simulation form xplane.
+This is noval approcahe for horizon line detection using image processing technique edge and line detection to find the aircraft orientation Pitch and Roll infromation and to control the aircarft in simulation environment in xplane.
